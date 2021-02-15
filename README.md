@@ -1,7 +1,7 @@
 # study_atcoder
 
-#About
+## About
 atcoderでやったものをとりあえずぶち込んでます。
 
-#language
+## language
 基本的にpython。一応c++も基礎的なことはわかるので、もしかしたらc++で解くようになるかもしれません。
