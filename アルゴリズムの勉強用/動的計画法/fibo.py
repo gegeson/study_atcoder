@@ -7,7 +7,8 @@ def fibo(n, memo={}):
     elif n in memo:
         return memo[n]
     else:
-        memo[n] = fibo(n-1, memo) + fibo(n-2, memo)
+        memo[n] = fibo(n - 1, memo) + fibo(n - 2, memo)
         return memo[n]
-    
+
+
 print(fibo(500))
